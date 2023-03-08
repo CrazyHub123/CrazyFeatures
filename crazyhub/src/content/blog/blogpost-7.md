@@ -1,32 +1,38 @@
 ---
-title: Flappy Clicker
+title: Nuke Simulator
 description: A New Script For CrazyHub.
-pubDate: 2.25.2023
+pubDate: 2.27.2023
 author: CrazyHub
 tags:
   - Script
   - CrazyHub
-imgUrl: https://i.imgur.com/jnoNMr2.png
+imgUrl: https://i.imgur.com/twjjknz.png
 layout: ../../layouts/BlogPost.astro
 ---
 
+
 ## Main
 ```
-- Auto Click
-- Auto Rebirth
+- Auto Farm Nearest
+- Auto Collect 
+- Auto Equip Best Pet
 ```
 
 ## Hatch
 ```
-- Auto Hatch Chest x1
-- Auto Hatch Chest x3
-- Auto Hatch Egg x1
-- Auto Hatch Egg x3
+- AutoHatch x1
+- AutoHatch x3
+```
+
+## Teleport
+```
+- Teleport To Selected Place
 ```
 
 ## Player
 ```
 - Change WalkSpeed
+- Change JumpPower
 - Change Fov
 ```
 

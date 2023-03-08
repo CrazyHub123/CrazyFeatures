@@ -1,32 +1,43 @@
 ---
-title: Flappy Clicker
+title: Timber Champions
 description: A New Script For CrazyHub.
-pubDate: 2.25.2023
+pubDate: 3.5.2023
 author: CrazyHub
 tags:
   - Script
   - CrazyHub
-imgUrl: https://i.imgur.com/jnoNMr2.png
+imgUrl: https://i.imgur.com/gid8RuL.png
 layout: ../../layouts/BlogPost.astro
 ---
 
+
 ## Main
 ```
-- Auto Click
-- Auto Rebirth
+Main Section:
+- Choose Area
+- Choose Level
+- Auto Chop
+```
+
+```
+Other Things:
+- Auto Collect Orbs
+- Auto Collect Chests
+- Auto Claim Rewards
 ```
 
 ## Hatch
 ```
-- Auto Hatch Chest x1
-- Auto Hatch Chest x3
-- Auto Hatch Egg x1
-- Auto Hatch Egg x3
+- Auto Hatch Egg
+- Auto Hatch Triple Egg
+- Auto Equip Best
+- Auto Equip Best Delay
 ```
 
 ## Player
 ```
 - Change WalkSpeed
+- Change JumpPower
 - Change Fov
 ```
 
