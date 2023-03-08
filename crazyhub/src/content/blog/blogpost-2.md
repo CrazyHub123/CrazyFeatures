@@ -1,49 +1,47 @@
 ---
-title: Bubble Gum Clicker!
-description: A New Script For CrazyHub.
-author: CrazyHub
-pubDate: 2.11.23
+title: Blogpost 2
+pubDate: 12/31/2022 12:05
+author: "Elian Van Cutsem"
 tags:
-  - Script
-  - CrazyHub
-imgUrl: https://i.imgur.com/XpXRCX2.png
-layout: "../../layouts/BlogPost.astro"
+  - Astro
+  - WebDev
+  - Programming
+imgUrl: https://i.imgur.com/iGvihVf.jpg
+description: Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, vox nocte sedesque, decimo. Omnia esse, quam sive; conplevit illis indestrictus admovit dedit sub quod protectus, impedit non.
+layout: '../../layouts/BlogPost.astro'
 ---
 
-## Main
-```
-- Auto Click
-- Input Amount When To Sell
-- Auto Sell
-- Auto Collect Rewards
-```
+## Deorum petiit ignis
 
-## Hatch
-```
-- Auto Hatch
-```
+Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, *vox
+nocte sedesque*, decimo. Omnia esse, quam sive; conplevit illis indestrictus
+admovit dedit sub quod protectus, impedit non.
 
-## Teleport
-```
-- Teleport To Activation Place
-- Teleport To Selected Island
-```
+## Iovis late orbem Perseus sunt
 
-## Auto
-```
-- Buy All Types Of Boosts
-its too long so i didnt list it
-here
-```
+Aras reperire, sui motis correpti coniunx Onetor amore ferire lacertis, petiit.
+Bis pallor et mecum me, igne patruelibus *tendebam*, vultu sterilique terruerat
+*tempore* medium aera **eadem Mittor**.
 
-## Player
-```
-- walkspeed
-```
+- Non turba loca dederunt primordia ineamus Dictys
+- Tanti amat mundus sedula
+- Potuissent aetas parili coniuge se lumina breve
+- Tamen ille crepitantibus ulla coeperunt quibus iugulo
+- Pindusque solacia luctataque felix
 
-## Credits
-```
-- Creator Of Script : JustHey#9772
-- Ui Library : ArrayField
-- Creator Of Ui Library : Metas#7777
-```
+## Longum minus sic saepe
+
+Genu cupiens quoque: cum dolor: sollicitive cantu, et piae Leuconoe, huius non
+nil tuli Peleusque rauca. Et alvum cuncti Hippodamas meritis nec coniunx ausa,
+pete. Congestaque nisi nullus poena. Tanto cum, curvis vulnera quod optatis,
+trahens conplexa saepe.
+
+Hominum quo. Signa germanaeque iuvat at feruntur precantibus corpus praebuerat
+excipit mixtaeque inferior, haec percepit regum: nec nec sit ferenti.
+
+## Geminas namque quod referitur argenteus aderat superstes
+
+Insistere pugno. Cum morae vigilantibus dulces Cycnus: neque cum sororis.
+
+Hac Aestas solet docebo tandem tamquam omnis vitiantur mitte, vatis in animique
+infelix passimque. Superasset onus.
